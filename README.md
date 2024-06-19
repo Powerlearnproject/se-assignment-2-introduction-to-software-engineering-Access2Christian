@@ -7,12 +7,9 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
 Software engineering is a disciplined approach to developing, operating, maintaining, and retiring software. It combines principles from computer science, engineering, and project management to create reliable, efficient, and maintainable software systems.
 
-
 What is software engineering, and how does it differ from traditional programming?
-
 Software Engineering is a structured approach to designing, developing, operating, and maintaining software using engineering principles to ensure reliability and efficiency.
 Traditional Programming focuses mainly on coding without a comprehensive, structured methodology.
 
@@ -26,7 +23,6 @@ Documentation: Software engineering requires extensive documentation; traditiona
 
 Software Development Life Cycle (SDLC):
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-
 Phases of the Software Development Life Cycle (SDLC)
 Planning: Define scope, objectives, and project plan.
 Requirements Analysis: Gather and document user needs.
